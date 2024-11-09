@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;elite&apos;&#x0D;&#x0A;- Original project: &apos;elite&apos;&#x0D;&#x0A;- Original element: &apos;com.edubridge.elite.model.StudentService.java&apos;" description="Delete element" element1="/src&lt;com.edubridge.elite.model{StudentService.java" elements="1" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1728388643924" subPackages="false" version="1.0"/>
+</session>
